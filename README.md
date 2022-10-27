@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SookX
 - 👀 I’m interested in programming, anime and video games
-- 🌱 I’m currently learning Python, JavaScript
+- 🌱 I’m currently learning Python, JavaScript, C++
 - 📫 How to reach me:
 -   Sooka#5607 - my discord
 
