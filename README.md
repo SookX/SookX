@@ -58,7 +58,7 @@
  </div>
 <br>
 <div align="center"> 
-  <a href="mrsook4e@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/></a>
+  <a href="..\mrsook4e@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/></a>
     <p> 𝙢𝙧𝙨𝙤𝙤𝙠4𝙚@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢 </p>
     <br>
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" height="40"/></a>
