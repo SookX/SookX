@@ -39,9 +39,6 @@
 <h1 align="center">Back-end</h1>
 <div align="center"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40" height="40"/>
-    <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="40" height="40"/></a>
-      <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40"/></a>
-        <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" width="40" height="40"/></a>
           <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40" height="40"/></a>
             </div>
 <h1 align="center">Frameworks</h1>
