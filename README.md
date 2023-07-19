@@ -9,7 +9,7 @@
 
 # ᴀʙᴏᴜᴛ ᴍᴇ：
 
-### I am 14 year old student from Technological School Electronic Systems in Sofia
+### I am 15 year old student from Technological School Electronic Systems in Sofia
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/cc/c8/39/ccc839332d89d6150db61b7e47da89f1.gif">
 
