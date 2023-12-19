@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mrsook4e@gmail.com**
 
-- ⚡ Fun fact **I am lazy asf**
+- ⚡ Fun fact **I am gay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
