@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sookx" alt="sookx" /></a> </p>
 <img align = "right" alt = "Picture" src = "https://i.imgur.com/wLwZ8Vp.gif">
+
 - 🌱 I’m currently learning **Django REST**
 
 - 💬 Ask me about **Everything ;)**
