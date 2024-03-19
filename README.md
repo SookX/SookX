@@ -6,13 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sookx" alt="sookx" /></a> </p>
 <img align = "right" alt = "Picture" src = "https://i.imgur.com/wLwZ8Vp.gif">
 
-- 🌱 I’m currently learning **Django REST**
+- 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **Everything ;)**
 
 - 📫 How to reach me **mrsook4e@gmail.com**
 
-- ⚡ Fun fact **I am a fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
