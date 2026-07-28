@@ -21,7 +21,7 @@ I'm a final-year student at **TUES Sofia** and an independent ML researcher. My 
 
 - 🔭 **Right now:** self-supervised speech representation learning and compact-model pretraining
 - 🌱 **Digging into:** JEPA-style latent world models and value-shaped representations
-- ⚙️ **Comfort zone:** systems C/C++, PyTorch, CUDA, and multi-GPU SLURM/HPC training
+- ⚙️ **Comfort zone:** PyTorch, CUDA, and multi-GPU SLURM/HPC training
 - 🧩 **Also into:** reinforcement learning and getting neural nets to run on constrained hardware
 - 🎓 Working toward graduate research abroad
 - 🌍 Bulgarian and English
