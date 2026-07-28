@@ -1,32 +1,127 @@
-<h1 align="center">Hi 👋, I'm Vasil</h1>
-<h3 align="center">A passionate Data Scientist from Bulgaria</h3>
+<h1 align="center">Hi, I'm Vasil 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sookx&label=Profile%20views&color=0e75b6&style=flat" alt="sookx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sookx" alt="sookx" /></a> </p>
-<img align = "right" alt = "Picture" src = "https://i.imgur.com/wLwZ8Vp.gif">
-
-- 🌱 I’m currently learning **Express.js**
-
-- 💬 Ask me about **Everything ;)**
-
-- 📫 How to reach me **mrsook4e@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vasil-vasilev-8157b7240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vasil-vasilev-8157b7240/" height="30" width="40" /></a>
-<a href="https://instagram.com/vasisveeeej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasisveeeej" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uclu7rdntk8zmnu71kiksg4q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uclu7rdntk8zmnu71kiksg4q" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sookx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sookx" height="30" width="40" /></a>
-<a href="https://discord.gg/FuRSF9Mukx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FuRSF9Mukx" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=ML+researcher+from+Sofia%2C+Bulgaria;Self-supervised+learning+%7C+Embedded+AI;Teaching+small+models+to+learn+from+little;From+CUDA+kernels+to+SLURM+clusters" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sookx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sookx&show_icons=true&locale=en&layout=compact" alt="sookx" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sookx&show_icons=true&locale=en" alt="sookx" /></p>
+### 🧑‍🔬 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sookx&" alt="sookx" /></p>
+I'm a final-year student at **TUES Sofia** and an independent ML researcher. My work sits at the intersection of **self-supervised learning**, **efficient / embedded AI**, and **representation learning** for speech, vision, and world models. The recurring theme across everything I do: *make small models learn well from little supervision*.
+
+<!-- swap for your favorite anime gif -->
+<img align="right" width="300" alt="anime gif" src="https://media.giphy.com/media/wl2Xa4kA0f3aE/giphy.gif" />
+
+- 🔭 **Right now:** self-supervised speech representation learning and compact-model pretraining
+- 🌱 **Digging into:** JEPA-style latent world models and value-shaped representations
+- ⚙️ **Comfort zone:** systems C/C++, PyTorch, CUDA, and multi-GPU SLURM/HPC training
+- 🧩 **Also into:** reinforcement learning and getting neural nets to run on constrained hardware
+- 🎓 Working toward graduate research abroad
+- 🌍 Bulgarian and English
+- ⚡ Fun fact: I like models with fewer parameters than my phone has contacts
+- 📫 **Reach me:** vagrivas08@gmail.com
+
+---
+
+### 🔬 What I work on
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Self-supervised learning**<br/>
+Masked-prediction and latent-prediction objectives that squeeze strong representations out of unlabeled data. Less labeling, more learning.
+
+</td>
+<td width="50%" valign="top">
+
+**Edge & efficient ML**<br/>
+Sub-million-parameter models that run on-device. Architecture design, distillation, and the endless fight against FLOPs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**World models**<br/>
+JEPA-style latent prediction, action-effect encoding, and value-shaped representations for planning and control.
+
+</td>
+<td width="50%" valign="top">
+
+**Medical & vision AI**<br/>
+Vision-language models for clinical imaging, plus the benchmarks and verification methods that make them trustworthy on chest X-ray and MRI.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Selected work
+
+- 🧮 **EPU (Exponential Partial Unit)** — a novel activation function, published in *MDPI Applied Sciences*
+- 🎙️ **Bulgarian ASR** — self-supervised speech recognition for a low-resource language, deployed live at **[bg-glas.com](https://bg-glas.com)**
+- 👁️ **Edge vision** — sub-million-parameter object detectors built for on-device inference
+- 🌐 **World models & SSL** — ongoing research on latent-prediction objectives and value-shaped action representations
+- 📄 Publications and workshop submissions across ML venues, with more in the pipeline
+
+---
+
+### 🛠️ Tech stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**ML / Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Infra & tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sookx&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sookx&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+<!-- second anime gif, swap freely -->
+<p align="center">
+  <img width="480" alt="anime coding gif" src="https://i.imgur.com/GzHr7y1.gif" />
+</p>
+
+<p align="center"><i>"The best model is the one small enough to actually ship."</i></p>
+
+---
+
+### 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vasil-vasilev-8157b7240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:vagrivas08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://www.leetcode.com/sookx"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" /></a>
+  <a href="https://bg-glas.com"><img src="https://img.shields.io/badge/bg--glas.com-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+</p>
