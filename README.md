@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=ML+researcher+from+Sofia%2C+Bulgaria;Self-supervised+learning+%7C+Embedded+AI;Teaching+small+models+to+learn+from+little;From+CUDA+kernels+to+SLURM+clusters" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=ML+researcher+from+Sofia%2C+Bulgaria;Self-supervised+learning+%7C+World+models+%7C+RL;Teaching+small+models+to+learn+from+little;From+CUDA+kernels+to+SLURM+clusters" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@ I'm a final-year student at **TUES Sofia** and an independent ML researcher. My 
 <img align="right" width="300" alt="anime gif" src="https://media.giphy.com/media/wl2Xa4kA0f3aE/giphy.gif" />
 
 - 🔭 **Right now:** self-supervised speech representation learning and compact-model pretraining
-- 🌱 **Digging into:** JEPA-style latent world models and value-shaped representations
-- ⚙️ **Comfort zone:** PyTorch, CUDA, and multi-GPU SLURM/HPC training
-- 🧩 **Also into:** reinforcement learning and getting neural nets to run on constrained hardware
+- 🎮 **Genuinely hyped about:** reinforcement learning and JEPA-style world models for planning and control
+- 🌱 **Digging into:** value-shaped representations and action-effect encoding
+- ⚙️ **Comfort zone:** PyTorch, CUDA, and multi-GPU SLURM/HPC training, plus shipping models to constrained hardware
 - 🎓 Working toward graduate research abroad
 - 🌍 Bulgarian and English
 - ⚡ Fun fact: I like models with fewer parameters than my phone has contacts
@@ -68,7 +68,6 @@ Vision-language models for clinical imaging, plus the benchmarks and verificatio
 ### 🏆 Selected work
 
 - 🧮 **EPU (Exponential Partial Unit)** — a novel activation function, published in *MDPI Applied Sciences*
-- 🎙️ **Bulgarian ASR** — self-supervised speech recognition for a low-resource language, deployed live at **[bg-glas.com](https://bg-glas.com)**
 - 👁️ **Edge vision** — sub-million-parameter object detectors built for on-device inference
 - 🌐 **World models & SSL** — ongoing research on latent-prediction objectives and value-shaped action representations
 - 📄 Publications and workshop submissions across ML venues, with more in the pipeline
@@ -123,5 +122,4 @@ Vision-language models for clinical imaging, plus the benchmarks and verificatio
   <a href="https://www.linkedin.com/in/vasil-vasilev-8157b7240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:vagrivas08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://www.leetcode.com/sookx"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" /></a>
-  <a href="https://bg-glas.com"><img src="https://img.shields.io/badge/bg--glas.com-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
 </p>
